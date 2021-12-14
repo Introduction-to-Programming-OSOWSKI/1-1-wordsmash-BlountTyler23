@@ -1,5 +1,5 @@
-def worldSmash(a, b):
+def wordSmash(a, b):
     print(a + b)
 
-worldSmash("Cat", "Dog")
-worldSmash("Red", "blue")
+wordSmash("Cat", "Dog")
+wordSmash("Red", "blue")
